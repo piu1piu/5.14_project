@@ -1,4 +1,4 @@
-[Назад](/Content/git_config.md)-------------[Содержание](/readme.md)-------------[Вперед](/Content/git_add.md)
+[Назад](/Content/git_config.md)<--[Содержание](/readme.md)-->[Вперед](/Content/git_add.md)
 
 ## **Git init**
 
