@@ -1,4 +1,4 @@
-[Назад](/Content/git_commit.md)<--[Содержание](/readme.md)-->[Вперед](/Content/git_remote_add.md)
+[Назад](/Content/git_remote_add.md)<--[Содержание](/readme.md)-->[Вперед](/Content/git_pull.md)
 ## Git fetch
 Как вы только что узнали, для получения данных из удалённых проектов, следует выполнить:
 ```
