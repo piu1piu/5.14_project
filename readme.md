@@ -7,7 +7,7 @@ License:[MIT](licenseMit.md)
 ---
 ### **Содержание**
 
-1. [git config](Content\git_config.md)
+1. [git config](./Content/git_config.md)
 2. [git init](./Content/git_init.md)
 3. [git add](./Content/git_add.md)
 4. [git commit](./Content/git_commit.md)
