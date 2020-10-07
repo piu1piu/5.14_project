@@ -1,4 +1,4 @@
-[Назад](/Content/git_status.md)<--[Содержание](/readme.md)-->[Вперед](/Content/git_show.md)
+[Назад](/Content/git_status.md)<--[Содержание](/readme.md)-->~~Вперед~~
 
 ## Git log
 

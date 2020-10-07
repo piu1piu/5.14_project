@@ -19,6 +19,5 @@ License:[MIT](licenseMit.md)
 10. [git push](./Content/git_push.md)
 11. [git status](./Content/git_status.md)
 12. [git log](./Content/git_log.md)
-13. [git show](./Content/git_show.md)
 ---
 Git logo by Jason Long - https://git-scm.com/downloads/logos, license:[CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
